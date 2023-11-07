@@ -1,2 +1,2 @@
-# Renan.Macchi
+# Renan Macchi
 Estou estudando Github!
